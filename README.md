@@ -28,14 +28,5 @@
 - ⚡ Fast & Easy Setup
 - 🔔 Security Alerts
 - 🎯 Customizable Settings
-
----
-
-# 📸 Preview
-
-<p align="center">
-  <img src="assets/dashboard.png" width="800">
-</p>
-
 ---
 
