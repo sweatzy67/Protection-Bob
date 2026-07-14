@@ -1,7 +1,7 @@
 # 🛡️ Protection-Bob
 
 <p align="center">
-  <img src="assets/banner.png" alt="Protection-Bob Banner" width="850">
+  <img src="assets/Banner.png" alt="Protection-Bob Banner" width="850">
 </p>
 
 <p align="center">
